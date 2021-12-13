@@ -6,7 +6,7 @@ At 42, we believe in differentiation and inclusivity. The education model focuse
 Since its creation in 2013, 42 has always been committed to offering the best IT training to the most people. Our unique position in the world of higher education is based on strong values: inclusivity, open culture, tuition-free, and always aiming at excellence. The ultimate goal is sustainable professional integration into the labor market.
 We believe that you should not have to pay for sustainable professional integration. At 42, there are no hidden application, registration or hardware fees before, during or at the end of the training course. Money is not a selection factor. This commitment allows us to attract various profiles with diverse journeys and motivations to learn programming.
 [Click here for more information](https://42.fr/en/homepage/)
-# what ia 1337 ?
+# what is 1337 ?
 1337 is the first to provide IT training in Morocco, completely free of charge, open and accessible to anyone between the ages of 18 and 30. No need for an IT degree, or of having undergone extensive IT training. The only criteria for admission in Treize, Trente-Sept is CREATIVITY.
 The Treize, Trente-Sept educational approach is based on peer-learning. A participatory operating style allowing students to unleash their creativity through project-based learning. To train the future coders of tomorrow, we had to rethink learning. We had to make IT something fun,
 1337 is the coding school par excellence, completely free of charge and accessible to all with no prerequisite of a degree. It offers a full immersion in a universe where the future is already present. Where IT and the lines of code are way more than a vague and off-putting concept…
@@ -17,19 +17,28 @@ At the same time, you get to know fellow applicants, submit and evaluate project
 The “pool” program is like a fresh start.
 An opportunity to start a new and no need to have IT knowledge to start.
 The only prerequisite… is to know how to use a computer.
-[Click here for more information}(https://www.1337.ma/en/the-pool)
+[Click here for more information](https://www.1337.ma/en/the-pool)
 # my ruselt in the pool
+LEVEL : 9.22%
 | DAY  | GRADE
 |------|-------
 | SH00 | 85%
-| SH01 | 92%
-| C00  | 100%
+| SH01 | 70%
+| C00  | 77%
 | C01  | 100%
-| C02  | 100%
+| C02  | 85%
 | C03  | 100%
 | C04  | 100%
-| C05  | 77%
+| C05  | 80%
 | C06  | 100%
-| C07  | 100%
+| C07  | 60%
 | C08  | 100%
-| C09  | 100%
+
+| exam   | GRADE
+|--------|-------
+| exam00 | 80%
+| exam01 | 64%
+| exam02 | 70%
+| exam04 | 66%
+
+rush01 = 100% whit [@MaherAzzouzi](https://github.com/MaherAzzouzi)
