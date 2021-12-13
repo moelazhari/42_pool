@@ -42,3 +42,8 @@ LEVEL : 9.22%
 | exam04 | 66%
 
 rush01 = 100% whit [@MaherAzzouzi](https://github.com/MaherAzzouzi)
+
+# CHEAT ALERT
+- This repo is just for my self. I made it public so I could access it anywhere.
+- always ask your mates, their there for you!
+- THOSE SOLUTIONS MIGHT NOT BE VALID SOLUTIONS.
